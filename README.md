@@ -3,7 +3,7 @@ Custom tensorflow builds for macOS.
 <h4>Installation</h4>
 
 ```
-pip --no-cache-dir install https://github.com/drewszurko/tensorflow-build/{RELEASE}
+pip --no-cache-dir install https://github.com/drewszurko/tensorflow-build/raw/master/{RELEASE}
 ```
 
 <h4>Builds</h4>
